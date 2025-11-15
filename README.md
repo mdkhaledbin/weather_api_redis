@@ -4,7 +4,7 @@ A small FastAPI-based weather API that fetches weather data from a 3rd-party pro
 
 This project demonstrates working with 3rd-party APIs, environment variables, in-memory caching (Redis), and rate limiting.
 
-This is solution of roadmap.sh project weather api : https://github.com/mdkhaledbin/weather_api_redis
+This is solution of roadmap.sh project weather api : https://roadmap.sh/projects/weather-api-wrapper-service
 
 ## Features
 

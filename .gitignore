@@ -1,0 +1,92 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Virtual environment directories
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Pyenv/pyenv-virtualenv
+.python-version
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# mypy
+.mypy_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Logs and runtime files
+*.log
+*.pid
+
+# dotenv files (ignore actual secrets) — keep example files in repo
+.env
+weather_app/.env
+!*.env.example
+
+# Jupyter
+.ipynb_checkpoints
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer/egg
+.eggs/
+*.egg
+
+# Distribution artifacts
+*.whl
+
+# Generated documentation
+docs/_build/
+
+# Misc
+.cache/
+.local/
+__pypackages__/
+
+# Secrets and keys
+*.pem
+*.key
+
+# FastAPI / Uvicorn reload artifacts
+reload_
+
+# End of .gitignore
+
